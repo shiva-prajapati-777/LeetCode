@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0268-missing-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
