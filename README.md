@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/shiva-prajapati-777/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
