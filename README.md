@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
