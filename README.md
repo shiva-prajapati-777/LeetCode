@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-prajapati-777/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/shiva-prajapati-777/LeetCode/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3731-find-missing-elements) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
