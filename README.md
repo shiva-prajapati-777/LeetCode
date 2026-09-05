@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0832-flipping-an-image](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-prajapati-777/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/shiva-prajapati-777/LeetCode/tree/master/2029-stone-game-ix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,8 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
