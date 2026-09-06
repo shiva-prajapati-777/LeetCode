@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/shiva-prajapati-777/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-prajapati-777/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva-prajapati-777/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
